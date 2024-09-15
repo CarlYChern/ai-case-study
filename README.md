@@ -4,6 +4,8 @@
 
 > An Encumbent Technology Company using AI to Enter New Verticals and Improve Customer Experience
 
+---
+
 ## Overview and Origin
 
 * Airbnb stands for "Airbed and Breakfast".
@@ -12,7 +14,7 @@
     Airbnb was incorporated in August 2008.
     Publicly traded since December 2020 under NASDAQ:ABNB.
 
-* Founders
+*** Founders
     Three founders: Brian Chesky, Nathan Biecharczyk and Joe Gebbia.  The three were classmates at the Rhode Island School of Design (RISD).
 
 * Idea conception
@@ -20,9 +22,8 @@
 
 * Funding
     The company raised over $6 billion in funding before its initial public offering (IPO) in 2020.  The IPO raised an additional $3.5 billion.  The company is currently self-funding.  It does not require additional capital to grow.  Airbnb currently (9/13/24) has a market capitalization of $75 billion.
-
-## Business Activities
 ---
+## Business Activities
 
 * Challenge
     The company started by offering short-term rentals of spare rooms.  It later expanded to include entire apartments and houses.  It addressed the situations where traditional accomodations such as hotels might be fully booked or too expensive.  Travelers needed affordable and flexible alternatives.
@@ -35,6 +36,7 @@
 * Competitive position
     The company has first mover advantage, pioneering this market.  It has the largest platform that connects travelers and property owners.  It benefits from the network effect where having more platform users and lodging alternatives gives a significant competitive advantage.  It has a leading market share in the short-term rental market.  As of 2022, it had over 4 million hosts and 150 million users with listings in over 220 countries.  
 
+---
 
 * Technologies
     According to a April 21, 2023 article in Intuji, the platform offers  multiple payment gateways.  The architecture relies on Amazon Web Services (AWS).  The app's backend is built on a combination of Ruby on Rails and Node.js.  The frontend is built on React Native.  
@@ -42,6 +44,8 @@
     The software architecture is based on a microservices approach, where the application is divided into smaller, independent services that communicate with each other through Application Programming Interfaces (APIs).  At the core of its architecture is the API Gateway, which provides a single point of entry for all client requests.  
 
     Machine learning (ML) is important in the Airbnb app, powering its search and recommendation engines.  ML is also used to optimize pricing for hosts.  This is AI-powered pricing technology is referred to internally as "Smart Pricing."
+
+---
 
 ## Landscape
 
@@ -54,6 +58,8 @@
 * Competitors
     The direct competitor is Vrbo, which is owned by Expedia Group.  Vbro focuses on on renting entire properties rather than rooms or shared spaces.  Another direct competitor is Booking.com, which has a wider offering.  For example, it is a major platform for traditional hotels.  Other competitors include TripAdvisor, Marriott Homes & Villas, and Oyo Rooms.
 
+---
+
 ## Results
 
 * Business impact
@@ -65,6 +71,8 @@
 
 * Competitive position
     Airbnb occupies a strong market niche in short-term rentals offered by individuals.  Direct competitors are becoming increasingly competitive.  The primary competition is from traditional hotel chains that offer one-stop shopping and longer stay packages.  
+
+---
 
 ## Recommendations
 
@@ -81,6 +89,8 @@
 
 * Appropriateness
     The millions of daily users on its platform and the data that is generated is too difficult for humans to process.  AI can quickly process this data to make suggestions on new services.  Based on the user profile and other data, AI can offer additional services that are appropriate for the user.     
+
+---
 
 **Source:
 [Airbnb company news](https://news.airbnb.com/about-us/)

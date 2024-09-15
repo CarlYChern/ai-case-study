@@ -9,7 +9,7 @@
 
 ## Overview and Origin
 
-* Airbnb stands for "*Airbed and Breakfast*".
+* Airbnb stands for "*Airbed and Breakfast*".  [Airbnb website](https://www.airbnb.com)
 
 * History
 

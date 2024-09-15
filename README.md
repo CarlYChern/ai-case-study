@@ -1,8 +1,8 @@
 # AI Case Study: Airbnb
 
-![Company logo](https://www.google.com/search?sca_esv=e2666d891400fe50&biw=731&bih=806&q=small+airbnb+logo&uds=ADvngMjcH0KdF7qGWtwTBrP0nt7daGtYstpXpxPF1kru9OHbjkuyuLvalsz0ThlSSR00voTfOXAsTY1QQ-HgLA7LkwySW60VBq9Nr0v5fn5-9TSe7EYfbXRrs3wug35aE4ysntFSIsTToQgsOxUxthVwrDcyIESqJQ&udm=2&sa=X&ved=2ahUKEwit6efugcSIAxVqM1kFHa_3PEwQxKsJegQIEhAB&ictx=0)
+![Company logo](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBfRcKkKFWSbtRL27I0TwfB3efMm5tDPxqrxTHgRd_msGz10y6)
 
-> An Encumbent Technology Company using AI to Enter New Verticals and Improve Customer Experience
+> "An ultimately what I think Airbnb is building is not just a serivce or product.  But what we are in the largest sense is a global travel community.  And the role of Airbnb in that travel community is to be the ultimate host,  Think of us with AI as building the ultimate AI concierge that could understand you."  -Airbnb CEO Brian Chesky
 
 ---
 
@@ -11,6 +11,7 @@
 * Airbnb stands for "Airbed and Breakfast".
 
 ** History
+
     Airbnb was incorporated in August 2008.
     Publicly traded since December 2020 under NASDAQ:ABNB.
 

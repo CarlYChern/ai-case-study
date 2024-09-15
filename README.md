@@ -2,11 +2,8 @@
 
 ![Company logo](https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTBfRcKkKFWSbtRL27I0TwfB3efMm5tDPxqrxTHgRd_msGz10y6)
 
-> "An ultimately what I think Airbnb is building is not just a serivce or product.  But what we are in the largest sense is a global travel community.  And the role of Airbnb in that travel community is to be the ultimate host.  Think of us with AI as building the ultimate AI concierge that could understand you."  
+> "And ultimately what I think Airbnb is building is not just a serivce or product.  But what we are in the largest sense is a global travel community.  And the role of Airbnb in that travel community is to be the ultimate host.  Think of us with AI as building the ultimate AI concierge that could understand you."  
 > -Airbnb CEO Brian Chesky
-
-
-
 
 ---
 
@@ -114,7 +111,7 @@
 
 ---
 
-**Source:
+**Source:**
 
 [Airbnb company news](https://news.airbnb.com/about-us/)
 
@@ -127,6 +124,9 @@ Airbnb conference call Airbnb Concierge, Q3 2023 earnings call.
 [Vbro, competitor website](https://www.vrbo.com/?semcid=VRBO-US.B.GOOGLE.BT-c-EN.GT&semdtl=a118251470060.b1141973518615.g1kwd-13405466.e1c.m1EAIaIQobChMI1vSfjvHDiAMVM21HAR22qCUcEAAYASAAEgLZpfD_BwE.r1499329b22b12540d5a8716f7ebc04d327bd8304dc546ac97134c31fc48e20280.c1O741gx-3gIsTI6MUvk7V2w.j19003769.k1.d1624922945643.h1e.i1.l1.n1.o1.p1.q1.s1.t1.x1.f1.u1.v1.w1&gad_source=1&gclid=EAIaIQobChMI1vSfjvHDiAMVM21HAR22qCUcEAAYASAAEgLZpfD_BwE)
 
 [Thibault Masson, Airbnb concierge](https://www.rentalscaleup.com/airbnb-concierge-anticipating-an-ai-powered-super-app-for-airbnb/)
+
 [Rental scale up](https://www.rentalscaleup.com/)
+
 [Thibault Masson, LinkedIn](https://www.linkedin.com/pulse/what-airbnb-up-2024-strategy-analyzed-bold-thibault-masson-wn9re)
+
 [The vaction rental boom is behind us](https://airbnb-concierge-anticipating-an-ai-powered-super-app-for-airbnb/)
